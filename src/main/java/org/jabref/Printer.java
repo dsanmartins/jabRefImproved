@@ -1,0 +1,5 @@
+class Printer{
+
+	public Printer(){};
+
+}
